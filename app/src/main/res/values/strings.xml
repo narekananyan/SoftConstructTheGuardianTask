@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SoftConstructTheGuardianTask</string>
+    <string name="softconstruct">SOFTCONSTRUCT</string>
+    <string name="detail">DETAIL</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="error_connection_message">Oops! Something went wrong! Please check your internet connection</string>
+    <string name="error_unknown_message">Oops! Something went wrong!</string>
+
+
+</resources>
